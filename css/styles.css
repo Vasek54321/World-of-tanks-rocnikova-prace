@@ -11522,3 +11522,6 @@ html {
   font-size: 25px;
   padding-bottom: 20px;
 }
+img {
+  max-width: 100%;
+}
