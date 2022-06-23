@@ -11518,10 +11518,191 @@ html {
 #uvod {
   font-size: 25px;
 }
-#galerie {
+#galerie1 {
   font-size: 25px;
   padding-bottom: 20px;
-}
-img {
   max-width: 100%;
+  text-align: justify;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+#galerie2 {
+  font-size: 25px;
+  padding-bottom: 20px;
+  max-width: 100%;
+  text-align: justify;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+#galerie3 {
+  font-size: 25px;
+  padding-bottom: 20px;
+  max-width: 100%;
+  text-align: justify;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+#galerie4 {
+  font-size: 25px;
+  padding-bottom: 20px;
+  max-width: 100%;
+  text-align: justify;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+#galerie5 {
+  font-size: 25px;
+  padding-bottom: 20px;
+  max-width: 100%;
+  text-align: justify;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+#galerie6 {
+  font-size: 25px;
+  padding-bottom: 20px;
+  max-width: 100%;
+  text-align: justify;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+#galerie7 {
+  font-size: 25px;
+  padding-bottom: 20px;
+  max-width: 100%;
+  text-align: justify;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+#galerie8 {
+  font-size: 25px;
+  padding-bottom: 20px;
+  max-width: 100%;
+  text-align: justify;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+#galerie9 {
+  font-size: 25px;
+  padding-bottom: 20px;
+  max-width: 100%;
+  text-align: justify;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+#galerie10 {
+  font-size: 25px;
+  padding-bottom: 20px;
+  max-width: 100%;
+  text-align: justify;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+#galerie11 {
+  font-size: 25px;
+  padding-bottom: 20px;
+  max-width: 100%;
+  text-align: justify;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+#light {
+  max-width: 100%;
+}
+#medium {
+  max-width: 100%;
+}
+#heavy {
+  max-width: 100%;
+}
+#destroyer {
+  max-width: 100%;
+}
+#arty {
+  max-width: 100%;
+}
+
+#img1 {
+  max-width: 100%;
+}
+#img2 {
+  max-width: 100%;
+}
+#img3 {
+  max-width: 100%;
+}
+#img4 {
+  max-width: 100%;
+}
+#img5 {
+  max-width: 100%;
+}
+#img6 {
+  max-width: 100%;
+}
+#img7 {
+  max-width: 100%;
+}
+#img8 {
+  max-width: 100%;
+}
+#img9 {
+  max-width: 100%;
+}
+#img10 {
+  max-width: 100%;
+}
+#img11 {
+  max-width: 100%;
+}
+#img12 {
+  max-width: 100%;
+}
+#img13 {
+  max-width: 100%;
+}
+#img14 {
+  max-width: 100%;
+}
+#img15 {
+  max-width: 100%;
+}
+#img16 {
+  max-width: 100%;
+}
+#img17 {
+  max-width: 100%;
+}
+#img18 {
+  max-width: 100%;
+}
+#img19 {
+  max-width: 100%;
+}
+#img20 {
+  max-width: 100%;
+}
+#img21 {
+  max-width: 100%;
+}
+#img22 {
+  max-width: 100%;
+}
+#img23 {
+  max-width: 100%;
+}
+#img24 {
+  max-width: 100%;
+}
+#img25 {
+  max-width: 100%;
+}
+
+#galerie {
+  text-align: center;
+  font-size: 25px;
+  padding-bottom: 20px;
+  max-width: 100%;
+  padding-left: 10%;
+  padding-right: 10%;
 }
